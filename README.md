@@ -1,41 +1,29 @@
-# Project Title
+# Final Project
 
-Simple overview of use/purpose.
+Simple contract that can do a few functions
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+This contract can burn,mint, get balance, and other functions. The functions will reflect on testnet.snowtrace.io
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+Remix IDE
+Metamask Wallet
+Snowtrace Account
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+If the Pop-up does not appear try to restart your browser.
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Marichella Mendoza
+marichellamendoza@mymail.mapua.edu.ph
 
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the Marichella Mendoza License - see the LICENSE.md file for details
